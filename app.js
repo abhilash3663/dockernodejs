@@ -4,6 +4,6 @@
 	app.get('/',(req,res)=>{
 		res.send("Docker Nodejs Example");
 	});
-app.listen(3131,0=>{
+app.listen(3111,0=>{
 	console.log("Server is running on port 3111")
 });
